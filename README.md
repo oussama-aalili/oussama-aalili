@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on an own playground app to improve my software skills
-- 🌱 I’m currently learning langchain4j to bring the world of AI and Java development closer together
+- 🌱 I’m currently learning Spring AI to bring the world of AI and Java development closer together
 - 👯 I’m looking forward to collaborate on cool and innovative ideas 
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/oussama-aalili/
 
